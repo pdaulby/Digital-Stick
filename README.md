@@ -1,3 +1,3 @@
 # Digital-Stick
 
-BinaryStickInput.cs is the main file.
+BinaryStickInput.cs is the important file.
